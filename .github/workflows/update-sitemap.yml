@@ -1,0 +1,17 @@
+# .github_actions/workflows/update-sitemap.yaml
+
+name: update-sitemap
+
+on:
+  schedule:
+    - cron: '10 15 * * *'
+
+jobs:
+  update-sitemap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping to Google
+        run: |
+          curl -X GET "http://www.google.com/ping?sitemap=https://rezudouga.me/videos_1"
+          curl -X GET "http://www.google.com/ping?sitemap=https://rezudouga.me/images_1"
+          curl -X GET "http://www.google.com/ping?sitemap=https://rezudouga.me/sitemap_search"
