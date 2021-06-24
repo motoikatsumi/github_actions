@@ -22,6 +22,7 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://eroworld.me/https_3"
               curl -X GET "http://www.google.com/ping?sitemap=https://eroworld.me/videos_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://eroworld.me/videos_2"
+              
             # エロ動画のヌキツベ(エロアニメ動画のアニツベ)
               curl -X GET "http://www.google.com/ping?sitemap=https://anime-erodouga.me/https_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://anime-erodouga.me/https_2"
@@ -30,6 +31,7 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://anime-erodouga.me/videos_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://anime-erodouga.me/videos_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://anime-erodouga.me/videos_3"
+              
             # 人妻動画の人妻物語
               curl -X GET "http://www.google.com/ping?sitemap=https://hitozuma.co/https_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://hitozuma.co/https_2"
@@ -37,6 +39,7 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://hitozuma.co/https_4"
               curl -X GET "http://www.google.com/ping?sitemap=https://hitozuma.co/videos_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://hitozuma.co/videos_2"
+              
             # エロ動画のカナエロ
               curl -X GET "http://www.google.com/ping?sitemap=https://kana-ero.me/https_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://kana-ero.me/https_2"
@@ -44,6 +47,7 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://kana-ero.me/https_4"
               curl -X GET "http://www.google.com/ping?sitemap=https://kana-ero.me/videos_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://kana-ero.me/videos_2"
+              
             # 無料エロ動画のエロフリ
               curl -X GET "http://www.google.com/ping?sitemap=https://muryoudouga.me/https_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://muryoudouga.me/https_2"
@@ -119,7 +123,6 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/https_3"
               curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/https_4"
               curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/https_5"
-              
               
           # media3
             # レズゆり！
