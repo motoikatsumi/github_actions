@@ -5,6 +5,9 @@ name: update-sitemap
 on:
   schedule:
     - cron: '30 * * * *'
+    
+  # 手動実行用の記述
+  workflow_dispatch:
 
 jobs:
   update-sitemap:
