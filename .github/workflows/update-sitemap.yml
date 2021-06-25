@@ -1,14 +1,11 @@
 # .github_actions/workflows/update-sitemap.yaml
-
 name: update-sitemap
-
 on:
   schedule:
     - cron: '0 15 * * *'
     
   # 手動実行用の記述
   workflow_dispatch:
-
 jobs:
   update-sitemap:
     runs-on: ubuntu-latest
@@ -57,7 +54,100 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://muryoudouga.me/videos_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://muryoudouga.me/videos_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://muryoudouga.me/videos_3"
-              curl -X GET "http://www.google.com/ping?sitemap=https://muryoudouga.me/videos_4"         
-
+              curl -X GET "http://www.google.com/ping?sitemap=https://muryoudouga.me/videos_4"
               
+          # media2
+            # エロ動画の動画ちゃんねる
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/videos_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/videos_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/videos_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/videos_4"
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/https_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/https_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/https_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/https_4"
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/https_5"
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/https_6"
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/https_7"
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/https_8"
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/https_9"
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/link/https_1"
               
+            # 無料エロ動画のエロ動画jp(無料エロアニメ動画のエロアニメjp)
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/videos_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/videos_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/videos_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/https_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/https_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/https_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/https_4"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/https_5"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/https_6"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/sitemap_search"
+              
+            # エロ動画のエロモーニング
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-morning.cc/videos_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-morning.cc/https_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-morning.cc/https_2"
+              
+            # 無料エロ動画のバクヌキ
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-nuki.me/videos_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-nuki.me/videos_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-nuki.me/videos_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-nuki.me/https_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-nuki.me/https_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-nuki.me/https_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-nuki.me/https_4"
+              
+            # エロ動画のフェラCAFÉ
+              curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/videos_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/videos_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/videos_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/videos_4"
+              curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/https_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/https_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/https_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/https_5"
+              curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/https_6"
+              curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/https_7"
+              
+            # 熟女動画専門 熟女の果実
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/videos_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/videos_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/videos_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/https_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/https_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/https_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/https_4"
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/https_5"
+              
+          # media3
+            # レズゆり！
+              curl -X GET "http://www.google.com/ping?sitemap=https://rezudouga.me/videos_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://rezudouga.me/images_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://rezudouga.me/sitemap_search"
+              
+            # 無料エロ動画のTHEレイプ
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/videos_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/videos_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/videos_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/https_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/https_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/https_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/https_4"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/https_5"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/sitemap_search"
+              
+            # 無料エロ動画 みんなが抜いた巨乳動画
+              curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/videos_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/videos_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/videos_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/https_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/https_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/https_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/https_4"
+              curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/https_5"
+              curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/https_6"
+              curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/https_7"
+              curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/https_8"
+              curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/sitemap_search"
