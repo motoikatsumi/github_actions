@@ -151,3 +151,35 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/https_7"
               curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/https_8"
               curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/sitemap_search"
+              
+            # みんなが抜いたエロ動画(みんなが抜いたエロアニメ)
+              curl -X GET "http://www.google.com/ping?sitemap=https://eroanime.cc/videos_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://eroanime.cc/videos_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://eroanime.cc/https_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://eroanime.cc/https_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://eroanime.cc/https_3"
+              
+            # エロ動画のエロモエ(エロアニメのエロモエ)
+              curl -X GET "http://www.google.com/ping?sitemap=https://eromoe.me/videos_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://eromoe.me/videos_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://eromoe.me/https_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://eromoe.me/https_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://eromoe.me/https_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://eromoe.me/sitemap_search"
+              
+            # 熟女エロ動画 熟女の王道
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.cc/videos_1"              
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.cc/videos_2"              
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.cc/videos_3"              
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.cc/videos_4"              
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.cc/https_1"              
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.cc/https_2"              
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.cc/https_3"              
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.cc/https_4"              
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.cc/https_5"              
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.cc/https_6"              
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.cc/https_7"              
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.cc/sitemap_search"              
+
+              
+              
