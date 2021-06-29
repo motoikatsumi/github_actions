@@ -231,7 +231,8 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://adultero.me/images_2"    
               
             # エロ動画のエロツベ
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-tube.me/videos_1"                
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-tube.me/videos_1"     
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-tube.me/videos_2"                
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-tube.me/https_1"                
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-tube.me/https_2"                
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-tube.me/https_3"                
