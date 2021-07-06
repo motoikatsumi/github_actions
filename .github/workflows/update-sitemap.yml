@@ -134,6 +134,7 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/videos_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/videos_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/videos_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/videos_4"
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/https_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/https_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-rape.me/https_3"
