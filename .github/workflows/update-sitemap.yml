@@ -77,6 +77,7 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/videos_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/videos_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/videos_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/videos_4"
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/https_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/https_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-anim.cc/https_3"
