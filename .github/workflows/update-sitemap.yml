@@ -106,6 +106,7 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/videos_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/videos_3"
               curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/videos_4"
+              curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/videos_5"
               curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/https_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/https_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://erodouga.bz/https_3"
