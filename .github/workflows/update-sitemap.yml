@@ -159,6 +159,7 @@ jobs:
             # みんなが抜いたエロ動画(みんなが抜いたエロアニメ)
               curl -X GET "http://www.google.com/ping?sitemap=https://eroanime.cc/videos_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://eroanime.cc/videos_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://eroanime.cc/videos_3"
               curl -X GET "http://www.google.com/ping?sitemap=https://eroanime.cc/https_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://eroanime.cc/https_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://eroanime.cc/https_3"
