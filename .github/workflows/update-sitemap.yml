@@ -146,6 +146,7 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/videos_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/videos_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/videos_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/videos_4"
               curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/https_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/https_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://kyonyu.cc/https_3"
