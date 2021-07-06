@@ -88,6 +88,7 @@ jobs:
               
             # エロ動画のエロモーニング
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-morning.cc/videos_1"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-morning.cc/videos_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-morning.cc/https_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-morning.cc/https_2"
               
