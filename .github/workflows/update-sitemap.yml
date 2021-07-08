@@ -64,6 +64,7 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/videos_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/videos_3"
               curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/videos_4"
+              curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/videos_5"
               curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/https_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/https_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://douch.cc/https_3"
