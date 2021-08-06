@@ -1,0 +1,15 @@
+name: wget-sites
+on:
+  schedule:
+    - cron: '0 16 * * *'
+    
+  # 手動実行用の記述
+  workflow_dispatch:
+jobs:
+  wget-sites:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping to Google
+        run: |
+          # media1
+              wget -r -l 0 "https://eroanidouga.me/"
