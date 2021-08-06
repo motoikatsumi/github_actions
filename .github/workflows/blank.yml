@@ -9,7 +9,7 @@ jobs:
   wget-sites:
     runs-on: ubuntu-latest
     steps:
-      - name: Ping to Google
+      - name: wget to site
         run: |
           # media1
-              wget -r -l 0 "https://eroanidouga.me/"
+              wget -r -l 0 --exclude-directories=/page "https://eroanidouga.me/"
