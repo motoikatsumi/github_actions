@@ -1,7 +1,6 @@
 name: wget-sites
 on:
-  schedule:
-    - cron: '0 16 * * *'
+
     
   # 手動実行用の記述
   workflow_dispatch:
