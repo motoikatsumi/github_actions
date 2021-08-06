@@ -1,14 +1,4 @@
 name: wget-sites
 on:
 
-    
-  # 手動実行用の記述
-  workflow_dispatch:
-jobs:
-  wget-sites:
-    runs-on: ubuntu-latest
-    steps:
-      - name: wget to site
-        run: |
-          # media1
-              wget -r -l 0 --exclude-directories=/page --spider "https://eroanidouga.me/"
+
