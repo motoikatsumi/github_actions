@@ -48,7 +48,7 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://kana-ero.me/videos_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://kana-ero.me/videos_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://kana-ero.me/videos_3"
-
+              curl -X GET "http://www.google.com/ping?sitemap=https://kana-ero.me/videos_4"
               
             # 無料エロ動画のエロフリ
               curl -X GET "http://www.google.com/ping?sitemap=https://muryoudouga.me/https_1"
