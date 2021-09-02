@@ -19,6 +19,7 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://eroworld.me/https_3"
               curl -X GET "http://www.google.com/ping?sitemap=https://eroworld.me/videos_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://eroworld.me/videos_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://eroworld.me/videos_3"
               
             # エロ動画のヌキツベ(エロアニメ動画のアニツベ)
               curl -X GET "http://www.google.com/ping?sitemap=https://anime-erodouga.me/https_1"
