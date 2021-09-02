@@ -25,9 +25,11 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://anime-erodouga.me/https_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://anime-erodouga.me/https_3"
               curl -X GET "http://www.google.com/ping?sitemap=https://anime-erodouga.me/https_4"
+              curl -X GET "http://www.google.com/ping?sitemap=https://anime-erodouga.me/https_5"
               curl -X GET "http://www.google.com/ping?sitemap=https://anime-erodouga.me/videos_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://anime-erodouga.me/videos_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://anime-erodouga.me/videos_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://anime-erodouga.me/videos_4"
               
             # 人妻動画の人妻物語
               curl -X GET "http://www.google.com/ping?sitemap=https://hitozuma.co/https_1"
