@@ -97,6 +97,7 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-morning.cc/videos_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-morning.cc/https_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-morning.cc/https_2"
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-morning.cc/https_3"
               
             # 無料エロ動画のバクヌキ
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-nuki.me/videos_1"
