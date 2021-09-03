@@ -196,7 +196,8 @@ jobs:
 
           # media4
             # 無料エロ動画のミストレスクラブ
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-club.me/videos_1"              
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-club.me/videos_1"        
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-club.me/videos_2"              
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-club.me/https_1"              
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-club.me/https_2"              
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-club.me/sitemap_tags"       
