@@ -278,26 +278,7 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://ero-douga.cc/videos_4"                
               
             # 無料エロ動画のマダムクラブ
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/sitemap-index"
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/videos_1"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/videos_2"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/videos_3"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/videos_4"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/videos_5"     
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/videos_6"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/https_2"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/https_3"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/https_4"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/https_5"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/https_6"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/https_7"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/images_1"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/images_2"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/images_3"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/images_4"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/images_5"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/sitemap_search"               
-              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/sitemap_tags"         
+              curl -X GET "http://www.google.com/ping?sitemap=https://ero-madam.cc/sitemap-index"      
 
             # 安心して見れる無料エロ動画（エロアニメ動画）
               curl -X GET "http://www.google.com/ping?sitemap=https://eroanimedouga.me/videos_1"      
