@@ -213,9 +213,11 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://milfvideo.me/sitemap_tags"                  
               
             # オナニー動画のオナニー学園マンズリ部
-              curl -X GET "http://www.google.com/ping?sitemap=https://onani-douga.me/videos_1"                
+              curl -X GET "http://www.google.com/ping?sitemap=https://onani-douga.me/videos_1"        
+              curl -X GET "http://www.google.com/ping?sitemap=https://onani-douga.me/videos_2"                
               curl -X GET "http://www.google.com/ping?sitemap=https://onani-douga.me/https_1"                
-              curl -X GET "http://www.google.com/ping?sitemap=https://onani-douga.me/https_2"                
+              curl -X GET "http://www.google.com/ping?sitemap=https://onani-douga.me/https_2"  
+              curl -X GET "http://www.google.com/ping?sitemap=https://onani-douga.me/https_3"                
               
             # 無料盗撮動画 こっそりもっこり
               curl -X GET "http://www.google.com/ping?sitemap=https://tousatu.bz/videos_1"                
