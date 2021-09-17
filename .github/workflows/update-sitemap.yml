@@ -125,11 +125,13 @@ jobs:
               curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/videos_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/videos_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/videos_3"
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/videos_4"
               curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/https_1"
               curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/https_2"
               curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/https_3"
               curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/https_4"
               curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/https_5"
+              curl -X GET "http://www.google.com/ping?sitemap=https://zyukuzyo.co/https_6"
               
           # media3
             # レズゆり！
